@@ -2,4 +2,6 @@ pandas
 numpy
 datetime
 requests
-
+openpyxl
+dateutil
+dotenv
